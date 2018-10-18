@@ -113,7 +113,9 @@ replacing `<add-your-branch-name>` with the name of the branch you created earli
 
 ## Submit your changes for review
 
-If you go to your repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+If you go to this repository on GitHub, you'll see a  `Compare & pull request` button. Click on that button.
+
+Make sure that the pull request is made comparing the correct repository and the correct branches. Compare with the [master branch in this repository](https://github.com/nishnash54/Hacktoberfest-resources) to contribute your code to the `master branch`. 
 
 <img style="float: right;" src="images/compare-and-pull.png" alt="create a pull request" />
 
